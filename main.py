@@ -1,8 +1,3 @@
-# Ng Kai Kit TP075892
-# Chuah Chen Xuan TP076106
-# Samantha Cho Qing Qing TP075832
-# Lee Jia Chee TP075836
-# Yap Zhen Wei TP076364
 
 import login_system as ls         #import login_system.py, which included all the code required for login system
 import os                         # import os library
