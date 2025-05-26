@@ -1,16 +1,7 @@
-# Ng Kai Kit TP075892
-# Chuah Chen Xuan TP076106
-# Samantha Cho Qing Qing TP075832
-# Lee Jia Chee TP075836
-# Yap Zhen Wei TP076364
-
 import os, time
 
 credidentials = {
-    'Samantha': 'samantha123',
     'Zhen Wei': 'zhenwei123',
-    'Jia Chee': 'jiachee123',
-    'Chen Xuan': 'chenxuan123'
 }
 
 def login():
