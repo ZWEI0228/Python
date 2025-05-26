@@ -1,8 +1,4 @@
-# Ng Kai Kit TP075892
-# Chuah Chen Xuan TP076106
-# Samantha Cho Qing Qing TP075832
-# Lee Jia Chee TP075836
-# Yap Zhen Wei TP076364
+
 
 import os # Import os module
 import time # Import time module
